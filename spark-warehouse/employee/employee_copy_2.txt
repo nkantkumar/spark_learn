@@ -1,0 +1,3 @@
+nishi 2000
+nutan 1000
+nishant 3000
